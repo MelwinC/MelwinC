@@ -52,8 +52,8 @@ I'm Melwin, a french 24 years old junior full-stack developer. <br> Currently st
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelwinC&layout=compact&title_color=a5b4fc&text_color=f5f6fa&bg_color=0d2438&border_radius=8&icon_color=a5b4fc&exclude_repo=Piscine,soutenancePOO,vuejs-nodejs&card_width=800&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelwinC&layout=compact&title_color=a5b4fc&text_color=f5f6fa&bg_color=0d2438&border_radius=8&icon_color=a5b4fc&exclude_repo=Piscine,soutenancePOO,vuejs-nodejs&card_width=700&hide_border=true)
 
-![MelwinC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelwinC&show_icons=true&hide=prs,issues&title_color=a5b4fc&text_color=f5f6fa&bg_color=0d2438&border_radius=8&icon_color=a5b4fc&text_bold=false&card_width=800&rank_icon=github&hide_border=true)
+![MelwinC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelwinC&show_icons=true&hide=prs,issues&title_color=a5b4fc&text_color=f5f6fa&bg_color=0d2438&border_radius=8&icon_color=a5b4fc&text_bold=false&card_width=700&rank_icon=github&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MelwinC&background=0d2438&border_radius=8&mode=weekly&card_width=800&fire=a5b4fc&ring=a5b4fc&currStreakNum=f5f6fa&stroke=a5b4fc&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=f5f6fa&sideNums=f5f6fa&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MelwinC&background=0d2438&border_radius=8&mode=weekly&card_width=700&fire=a5b4fc&ring=a5b4fc&currStreakNum=f5f6fa&stroke=a5b4fc&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=f5f6fa&sideNums=f5f6fa&hide_border=true)
